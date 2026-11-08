@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://spin-stack.github.io/website/
+    about: Installation, usage and reference.
+  - name: Report a vulnerability
+    url: https://github.com/spin-stack/spin-terraform-aws/security/advisories/new
+    about: Report security problems privately from the affected repository's Security tab, never as a public issue.
